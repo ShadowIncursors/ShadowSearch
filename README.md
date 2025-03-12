@@ -60,4 +60,6 @@ This project is licensed under the MIT License - see the LICENSE file for  detai
 
 ShadowSearch is designed for legitimate research and privacy-conscious users. The developers do not condone illegal activities. Users are responsible for their actions and should comply with all applicable laws.
 
+Do you want to collaborate on the project? Or do you have any problems/requests? Send us a pull request
+
 -ShadowIncursorsTeam
